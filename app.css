@@ -1,0 +1,32 @@
+.ok{
+    height: 285px;
+    width: 450px;
+    border: solid #ffffff;
+}
+.a{
+    height: 85px;
+    width: 450px;
+    background-color: #ed1c24;
+
+}
+.b{
+    height: 15px;
+    width: 450px;
+    background-color: #ffffff;
+
+}
+.c{
+    height: 85px;
+    width: 450px;
+    background-color: #0066b3;
+}
+.d{
+    height: 15px;
+    width: 450px;
+    background-color: #ffffff;
+}
+.e{
+    height: 85px;
+    width: 450px;
+    background-color: #00a651;
+}
